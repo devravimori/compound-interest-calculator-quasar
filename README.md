@@ -1,6 +1,6 @@
 # Compound Interest Calculator In Quasar
 
-A Compound Interest Calculator built in Quasar Framework with Vue js and inbuit component of quasar.
+A Compound Interest Calculator built in Quasar Framework with Vue js and inbuilt component of quasar.
 
 It has 3 main components: 
 1) Form options and input elements
